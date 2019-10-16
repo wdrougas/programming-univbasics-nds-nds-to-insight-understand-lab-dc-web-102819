@@ -7,5 +7,5 @@ def pretty_print_nds(nds)
 end
 
 def print_first_directors_movie_titles
-  pp directors_database["Stephen Spielberg"][:movies][:title[i]]
+  pp directors_database[Stephen Spielberg][:movies][:title[i]]
 end
